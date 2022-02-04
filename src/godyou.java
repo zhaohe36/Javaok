@@ -5,5 +5,6 @@ public class godyou {
         boolean b=false;
         int c=10000;
         char d='a';
+        int adc=1111;
     }
 }
