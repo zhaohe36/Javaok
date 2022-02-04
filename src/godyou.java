@@ -9,5 +9,6 @@ public class godyou {
         int []adcd={1,2,3};
         int []g={0};
         int []bbbb={1,2,3};
+        int []cccc={12,33};
     }
 }
