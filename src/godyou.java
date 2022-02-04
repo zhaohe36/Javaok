@@ -6,5 +6,6 @@ public class godyou {
         int c=10000;
         char d='a';
         int adc=1111;
+        int []adcd={1,2,3};
     }
 }
