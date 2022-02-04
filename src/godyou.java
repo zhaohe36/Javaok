@@ -3,5 +3,6 @@ public class godyou {
         System.out.println("hha");
         int a=10;
         boolean b=false;
+        int c=10000;
     }
 }
